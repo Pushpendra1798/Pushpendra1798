@@ -17,3 +17,10 @@
 - React
 - Redux
 - Tailwind CSS
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushpendra1798&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpendra1798&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,java,git,github,vscode"/>
+
+</p>
