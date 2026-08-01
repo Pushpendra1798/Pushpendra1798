@@ -24,7 +24,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/pushpendra1798" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:pushpendra7725@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
@@ -43,7 +43,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,firebase,java,python,git,github,vscode,postman,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,java,git,github,vscode,npm,vite"/>
 
 </p>
 
