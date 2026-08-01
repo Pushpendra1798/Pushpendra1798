@@ -57,7 +57,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,firebase,java,git,github,vscode,npm,vite,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,java,git,github,vscode,npm,vite"/>
 
 </p>
 
