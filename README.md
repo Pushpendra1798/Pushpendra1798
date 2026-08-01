@@ -16,14 +16,28 @@
 - 🌱 Currently Learning **Backend Development**
 - ⚛️ Building Projects with **React & Redux**
 - ☕ Love writing Java code
-- 🚀 Goal: Become a Full Stack Developer
+- 🚀 Goal: Build scalable Full Stack applications and contribute to Open Source.
 - 📫 Reach me: **pushpendra7725@gmail.com**
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
+
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/pushpendra1798" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -43,7 +57,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,java,git,github,vscode,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,firebase,java,git,github,vscode,npm,vite,postman"/>
 
 </p>
 
@@ -70,6 +84,10 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpendra1798&layout=compact&theme=tokyonight"/>
 
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushpendra1798&theme=tokyonight"/>
 </p>
 
 ---
@@ -108,13 +126,20 @@
 
 | Project | Description |
 |---------|-------------|
-| 🛒 SkyMart | Full Stack E-Commerce Website |
-| 📚 BookNest | Book Management Platform |
-| 💰 FinTrack Pro | Personal Finance Tracker |
-| 🌦 Weather App | Live Weather using API |
-| 🎬 Movie App | TMDB API React Project |
+| 🛒 [SkyMart](https://github.com/Pushpendra1798/SkyMart) | MERN Stack E-Commerce Platform |
+| 📚 [BookNest](https://github.com/Pushpendra1798/BookNest) | Book Management Application |
+| 💰 [FinTrack Pro](https://github.com/Pushpendra1798/FinTrack-Pro) | Personal Finance Tracker |
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Pushpendra1798/Pushpendra1798/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+
+---
+
 
 # 💡 What I Love
 
@@ -133,22 +158,12 @@
 
 ---
 
-<p align="center">
+<h3 align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Pushpendra1798&label=Profile%20Views&color=0e75b6&style=flat"/>
+✨ Thanks for visiting my profile! Let's connect and build something amazing together 🚀
 
-<img src="https://img.shields.io/github/followers/Pushpendra1798?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/github/stars/Pushpendra1798?affiliations=OWNER&style=social"/>
-
-</p>
-
----
+</h3>
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
 </p>
