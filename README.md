@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Pushpendra Shah
 
-<!--
-**Pushpendra1798/Pushpendra1798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE (Data Science)
+- 💻 React Developer
+- 🌱 Learning Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Tailwind CSS
