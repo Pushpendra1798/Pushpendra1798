@@ -17,7 +17,7 @@
 - ⚛️ Building Projects with **React & Redux**
 - ☕ Love writing Java code
 - 🚀 Goal: Become a Full Stack Developer
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **pushpendra7725@gmail.com**
 
 ---
 
