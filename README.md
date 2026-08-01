@@ -131,15 +131,6 @@
 | 💰 [FinTrack Pro](https://github.com/Pushpendra1798/FinTrack-Pro) | Personal Finance Tracker |
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Pushpendra1798/Pushpendra1798/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-
----
-
 
 # 💡 What I Love
 
