@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Pushpendra+Shah;Frontend+Developer;React+Developer;Java+Developer;Learning+Backend+Development;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Pushpendra+Shah" />
 </p>
 
 <h3 align="center">Frontend Developer | React Enthusiast | Java Learner | Future Full Stack Developer</h3>
